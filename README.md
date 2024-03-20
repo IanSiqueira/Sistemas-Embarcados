@@ -2,7 +2,16 @@
 Projeto realizado em sala de aula no dia 19/03 - Aluno *Ian* - Sistemas Unimater
 
 ## Funcionamento do retificador
-Os diodos retificadores são ligados a uma fonte de energia e desta forma é gerada uma tensão elétrica, que pode ser direta ou reversa. Caso os terminais positivos dos diodos retificadores sejam ligados aos terminais positivos da fonte de energia, ocorre um processo conhecido como polarização direta. O processo inverso ocorre quando os terminais negativos são ligados à base negativa da fonte de energia, ocasionando a polarização reversa.
+
+Um retificador é um dispositivo elétrico utilizado para converter corrente alternada (CA) em corrente contínua (CC). Os diodos retificadores desempenham um papel fundamental nesse processo.
+
+Quando os diodos retificadores estão conectados a uma fonte de energia alternada, como uma tomada de parede, eles permitem a passagem da corrente elétrica em apenas uma direção, bloqueando-a na direção oposta. Isso ocorre devido às propriedades semicondutoras dos diodos, que permitem que a corrente flua apenas quando a polaridade aplicada está correta.
+
+Quando os terminais positivos dos diodos retificadores são ligados aos terminais positivos da fonte de energia, isso cria uma situação conhecida como polarização direta. Nesse estado, os diodos permitem que a corrente elétrica flua facilmente, facilitando a passagem da corrente alternada para a corrente contínua.
+
+Por outro lado, quando os terminais negativos dos diodos retificadores estão conectados à base negativa da fonte de energia, ocorre o oposto, gerando uma polarização reversa. Nesse caso, os diodos bloqueiam efetivamente a corrente elétrica, impedindo que ela flua através do circuito.
+
+Portanto, através do processo de polarização direta e reversa dos diodos retificadores, é possível obter uma corrente elétrica contínua a partir de uma fonte de energia alternada, tornando-os essenciais em uma variedade de aplicações, desde carregadores de bateria até fontes de alimentação de dispositivos eletrônicos.
 
 ## Simulação
 
